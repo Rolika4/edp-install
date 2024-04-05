@@ -1,5 +1,6 @@
 .PHONY: help docs build-docs changelog
 
+
 CURRENT_DIR=$(shell pwd)
 
 help:
